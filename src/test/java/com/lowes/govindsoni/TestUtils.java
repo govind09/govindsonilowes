@@ -21,4 +21,6 @@ public class TestUtils {
         list.add(new DataEntity(a,b, Operation.MUL.toString(), a.multiply(b)));
         return list;
     }
+
+
 }
